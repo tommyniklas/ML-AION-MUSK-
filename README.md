@@ -1,2 +1,3 @@
-# ML-AION-MUSK-
-Capstone project 
+# ML-AION-MUSK
+Greetings !
+This is my Capstone project 
